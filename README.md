@@ -21,8 +21,6 @@ I like hardcoding, I hardly use Storyboards.
 I like to work in a team and share knowledge, learn new things and always improve.
 
 
-🔭 I am currently working at Sberbank
-
-👯 It would be cool to work on an interesting project in your free time
-
-💬 How to contact me: dobniknik@gmail.com
+- 🔭 I am currently working at Sberbank<br/>
+- 👯 It would be cool to work on an interesting project in your free time<br/>
+- 💬 How to contact me: dobniknik@gmail.com
