@@ -22,5 +22,7 @@ I like to work in a team and share knowledge, learn new things and always improv
 
 
 🔭 I am currently working at Sberbank
+
 👯 It would be cool to work on an interesting project in your free time
+
 💬 How to contact me: dobniknik@gmail.com
