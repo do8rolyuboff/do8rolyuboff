@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Nikita, I am engaged in mobile development for iOS with Swift.
-Not so long ago he passed retraining as a mobile application developer. I easily learned the syntax Swift, figured out the Optionals, and started practicing.
-I like hardcoding, I hardly use Storyboards.
-I like to work in a team and share knowledge, learn new things and always improve.
+I'm Dobrolyubov Nikita<br/>
+I have an internship as an IOS developer at Sber in Russia, Moscow.<br/>
+I started developing mobile applications in January of this year, and am trying very hard to retrain as a good iOS developer. I easily managed to understand the syntax of the Swift language and I immediately started to practice.<br/>
+I like hardcoding, I hardly use Storyboard. I like to work in a team and share knowledge and always improve.<br/><br/>
 
 
 - 🔭 I am currently working at Sberbank<br/>
 - 👯 It would be cool to work on an interesting project in your free time<br/>
-- 💬 How to contact me: dobniknik@gmail.com
+- 💬 How to contact me: dobniknik@gmail.com<br/>
