@@ -1,4 +1,4 @@
-### Yo, watsup! 👋
+### Yo, watsup! 👋🏻
 
 <!--
 **do8rolyuboff/do8rolyuboff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
