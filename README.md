@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm Dobrolyubov Nikita<br/>
-I have an internship as an IOS developer at Sber in Russia, Moscow.<br/>
-I started developing mobile applications in January of this year, and am trying very hard to retrain as a good iOS developer. I easily managed to understand the syntax of the Swift language and I immediately started to practice.<br/>
-I like hardcoding, I hardly use Storyboard. I like to work in a team and share knowledge and always improve.<br/><br/>
+Python Back End Developer<br/>
 
+I'm working on a project to recognize objects, clothes, food, actors in movies and TV shows. <br/> <br/>
 
 - 🔭 I am currently working at Sberbank<br/>
 - 👯 It would be cool to work on an interesting project in your free time<br/>
