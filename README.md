@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Dobrolyubov Nikita<br/>
-Python Back End Developer<br/>
+Python BackEnd developer<br/>
 
 I'm working on a project to recognize objects, clothes, food, actors in movies and TV shows. <br/> <br/>
 
