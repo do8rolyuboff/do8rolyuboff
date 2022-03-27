@@ -22,4 +22,4 @@ I'm working on a project to recognize objects, clothes, food, actors in movies a
 
 - 🔭 I am currently working at Sberbank<br/>
 - 👯 It would be cool to work on an interesting project in your free time<br/>
-- 💬 How to contact me: dobniknik@gmail.com<br/>
+<!-- - 💬 How to contact me: dobniknik@gmail.com<br/> -->
